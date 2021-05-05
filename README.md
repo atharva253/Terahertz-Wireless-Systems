@@ -4,7 +4,7 @@ This repository provides a Matlab-based framework to perform numerical analysis 
 ## Why Fluctuating Two Ray?
 A recent measurement campaign was conducted to measure the THz channel with operation at 304.2 GHz and 8 GHz bandwidth. Gradient descent was used to fit the distribution parameters for Gaussian, Rician, Nakagami-m and FTR distributions. FTR distribution performed a much better fit than other models. Morever, FTR distribution is a generalization of a lot more commonly used probability distributions for small scale fading.
 
-## Fundamentals of FTR
+## Fundamentals of FTR:
 The small-scale fluctuations in the amplitude of a signal transmitted over a wireless channel can be modeled by the superposition of a set of N dominant waves, referred to as specular components, to which other diffusely propagating waves are added.
 
 ![image](https://user-images.githubusercontent.com/65544914/117104407-b26cac00-ad99-11eb-94af-76c602f3af47.png)
