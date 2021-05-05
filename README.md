@@ -29,7 +29,7 @@ characterization and performance analysis,” IEEE Trans. Wireless Commun., vol.
 
 ## Contributors:
 
-Atharva Anand Joshi, Undergraduate Researcher 
+Atharva Anand Joshi, Undergraduate Student
 
 Pranay Bhardwaj, PhD Researcher
 
